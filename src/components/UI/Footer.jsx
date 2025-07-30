@@ -57,7 +57,7 @@ export const Footers = () => {
                 </li>
                 <li>
                   <NavLink
-                    to="#"
+                    to="https://github.com/LovnishKumar/WorldAtlas"
                     target="_blank"
                   >
                     Source Code
