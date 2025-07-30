@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "India, Delhi"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "+9100000xx0"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "contact@123.com"
+  }
+]
